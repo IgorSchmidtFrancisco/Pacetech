@@ -1,0 +1,9 @@
+algoritmo "Exercício"
+var
+salario, salarioFinal: real
+inicio
+Escreval ("Qual seria seu salário?")
+leia (salario)
+salarioFinal <- salario * 1.3
+Escreval ("Seu salário mais 30% é de ", salarioFinal)
+fimalgoritmo
